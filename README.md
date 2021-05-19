@@ -16,7 +16,7 @@
 ----------------------------------------
 
 * Under master Folder----->
-  * 11 may 2021 folder --->
+  * 11 may 2021 folder ---> 
     * age.py - automatic!
     * bill.py
     * digitalcalculation.py
