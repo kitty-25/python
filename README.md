@@ -1,8 +1,10 @@
-##PYTHON LEARNING##
+-------------------------
+####PYTHON LEARNING####
+-------------------------
 
---------------------------------------
-####Files contain here are from basics in python####
----------------------------------------
+----------------------------------------------
+#Files contain here are from basics in python#
+----------------------------------------------
 <-----Extra code to understand concepts---->
 * under extras Folder,
    * digitsum.py
