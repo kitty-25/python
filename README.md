@@ -4,8 +4,8 @@
 --------------------------------------
 #Files that are available here are:#
 ---------------------------------------
-* under extras Folder,
 <-----Extra code to understand concepts---->
+* under extras Folder,
    * digitsum.py
    * factorial.py
    * fibonacci.py
@@ -15,8 +15,8 @@
 ----------------------------------------
 ----------------------------------------
 
-* Under master Folder----->
-  * 11 may 2021 folder ---> 
+* Under master Folder:
+  * 11 may 2021 folder:
     * age.py - automatic!
     * bill.py
     * digitalcalculation.py
@@ -24,20 +24,20 @@
     * resume.py
     * welcome.py
    
-   * 13 may 2021 Folder---->
+   * 13 may 2021 Folder:
      * atmpin.py
      * diagonal.py
      
-   * 14 may 2021 Folder----->
+   * 14 may 2021 Folder:
      * atm.py
      * enquiry.py
      * failcount.py
      
-   * 17 may 2021 Folder------->
+   * 17 may 2021 Folder:
       * fraction.py
       * series.py
       
-   * 18 may 2021 Foder
+   * 18 may 2021 Folder:
       * amstrong.py
       * strong.py
       * atmcard.py
