@@ -15,14 +15,13 @@
 ----------------------------------------
 ----------------------------------------
 
-* Under master Folder:
-  * 11 may 2021 folder:
-    * age.py - automatic!
-    * bill.py
-    * digitalcalculation.py
-    * letter.py
-    * resume.py
-    * welcome.py
+* 11 may 2021 folder:
+  * age.py - automatic!
+  * bill.py
+  * digitalcalculation.py
+  * letter.py
+  * resume.py
+  * welcome.py
    
    * 13 may 2021 Folder:
      * atmpin.py
