@@ -9,9 +9,9 @@ for i in range(1,6):
     for j in range(5):
         print(j+1,end=" ")
 
-#iteration      i     j
-#   1           1     0+1=1 --> 1 1 1 1 1
-#   2           2     1+1=2 --> 2 2 2 2 2
-#   3           3     2+1=3 --> 3 3 3 3 3
-#   4           4     3+1=4 --> 4 4 4 4 4
-#   5           5     4+1=5 --> 5 5 5 5 5
+#iteration      i     j (executed 5 time with thier range)
+#   0           1     1 2 3 4 5
+#   1           2     1 2 3 4 5
+#   2           3     1 2 3 4 5
+#   3           4     1 2 3 4 5
+#   4           5     1 2 3 4 5
