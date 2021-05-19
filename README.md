@@ -1,8 +1,7 @@
 ######PYTHON LEARNING######
-##Files contain here are from basics in python##
-#Step by step progress shown here#
+
 --------------------------------------
-#Files that are available here are:#
+##Files contain here are from basics in python##
 ---------------------------------------
 <-----Extra code to understand concepts---->
 * under extras Folder,
