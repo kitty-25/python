@@ -8,8 +8,8 @@ res=5
 for i in range(1,6):
     a=res-i+1
     for j in range(1,6):
-        if j%2==1 and i>1:
-            print(str(i),end="  ")
+        if j%2==1 and i>=1:
+            print(str(i),end=" ")
         else:
             print(str(a),end=" ")
         i+=res
